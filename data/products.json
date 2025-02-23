@@ -1,0 +1,1585 @@
+[
+    {
+        "name": "Strawberries",
+        "price": "45.89",
+        "description": "freshly hand picked juicy strawberries for your convenience ",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "zaib-tse-KVv5lFOMY1E-unsplash_vc7dr9",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660279974/udemy-project/fruits%20and%20vegetables/zaib-tse-KVv5lFOMY1E-unsplash_vc7dr9.jpg"
+            }
+        ],
+        "category": "Vegetables and Fruits",
+        "seller": "Kauffman's Fruit Farm & Market",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Lemons",
+        "price": "315.00",
+        "description": "lemons for the perfect summer lemonade",
+        "ratings": 1.65,
+        "images": [
+            {
+                "public_id": "vino-li-pCjw_ygKCv0-unsplash_p2bxii",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660279973/udemy-project/fruits%20and%20vegetables/vino-li-pCjw_ygKCv0-unsplash_p2bxii.jpg"
+            }
+        ],
+        "category": "Vegetables and Fruits",
+        "seller":"Kauffman's Fruit Farm & Market",
+        "stock": 0,
+        "numOfReviews": 2,
+        "reviews": []
+    },
+    {
+        "name": "Oranges",
+        "price": "26.99 ",
+        "description": "Fresh farm picked oranges for fruit puch",
+        "ratings": 3.5,
+        "images": [
+            {
+                "public_id": "xiaolong-wong-nibgG33H0F8-unsplash_d0pjmi",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660279973/udemy-project/fruits%20and%20vegetables/xiaolong-wong-nibgG33H0F8-unsplash_d0pjmi.jpg"
+            }
+        ],
+        "category": "Vegetables and Fruits",
+        "seller":"Kauffman's Fruit Farm & Market",
+        "stock": 1,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Raspberries",
+        "price": "299.00 ",
+        "description": "nothig like these sweet sweet raspberries",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "zach-inglis-t0A2NCMhXRQ-unsplash_ahcifi",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660279972/udemy-project/fruits%20and%20vegetables/zach-inglis-t0A2NCMhXRQ-unsplash_ahcifi.jpg"
+            }
+        ],
+        "category": "Vegetables and Fruits",
+        "seller":"Kauffman's Fruit Farm & Market",
+        "stock": 11,
+        "numOfReviews": 112,
+        "reviews": []
+    },
+    {
+        "name": "Avocados",
+        "price": "126.99 ",
+        "description": "hop into a healthier lifestyle with avocados",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "tangerine-newt-RgT22Ixcq4Y-unsplash_e4t2i4",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660279972/udemy-project/fruits%20and%20vegetables/tangerine-newt-RgT22Ixcq4Y-unsplash_e4t2i4.jpg"
+            }
+        ],
+        "category": "Vegetables and Fruits",
+        "seller": "Kauffman's Fruit Farm & Market",
+        "stock": 122,
+        "numOfReviews": 2671,
+        "reviews": []
+    },
+    {
+        "name": "Mushrooms",
+        "price": "27.99",
+        "description": "perfect quench for the rich cream of mushroom at home",
+        "ratings": 4.1,
+        "images": [
+            {
+                "public_id": "onder-ortel-WA0vmODM9w4-unsplash_klvgxe",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660279970/udemy-project/fruits%20and%20vegetables/onder-ortel-WA0vmODM9w4-unsplash_klvgxe.jpg"
+            }
+        ],
+        "category": "Vegetables and Fruits",
+        "seller":"Kauffman's Fruit Farm & Market",
+        "stock": 1123,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Watermelon",
+        "price": "496.95",
+        "description": "i am craving a watermelon mojito , are you ?",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "sahand-babali-eiNdbqWZww4-unsplash_lqb9iw",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660279969/udemy-project/fruits%20and%20vegetables/sahand-babali-eiNdbqWZww4-unsplash_lqb9iw.jpg"
+            }
+        ],
+        "category": "Vegetables and Fruits",
+        "seller":"Kauffman's Fruit Farm & Market",
+        "stock": 131,
+        "numOfReviews": 222,
+        "reviews": []
+    },
+    {
+        "name": "Bell Peppers",
+        "price": "949.99",
+        "description": "farm fresh bell peppers to add color to your lifestyle palette",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "sydney-rae-t4XYbj1q_Cc-unsplash_jhtjvi",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660279969/udemy-project/fruits%20and%20vegetables/sydney-rae-t4XYbj1q_Cc-unsplash_jhtjvi.jpg"
+            }
+        ],
+        "category": "Vegetables and Fruits",
+        "seller": "Kauffman's Fruit Farm & Market",
+        "stock": 0,
+        "numOfReviews": 56,
+        "reviews": []
+    },
+
+
+
+    {
+        "name": "Celery",
+        "price": "45.89",
+        "description": "organic celery straight from our farm",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "louis-hansel-eJqcntNucjA-unsplash_ydaxvs",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489939/udemy-project/Organic%20and%20Gourmet/louis-hansel-eJqcntNucjA-unsplash_ydaxvs.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller": "healthy+fresh store",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Basil leaves",
+        "price": "315.00",
+        "description": "best cure for ailments",
+        "ratings": 1.65,
+        "images": [
+            {
+                "public_id": "rasa-kasparaviciene-wVjIlNh8eMQ-unsplash_ppxgiy",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489938/udemy-project/Organic%20and%20Gourmet/rasa-kasparaviciene-wVjIlNh8eMQ-unsplash_ppxgiy.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller":"healthy+fresh store",
+        "stock": 0,
+        "numOfReviews": 2,
+        "reviews": []
+    },
+    {
+        "name": "Henna Leaves",
+        "price": "26.99 ",
+        "description": "organic leaves to revitalise your hair",
+        "ratings": 3.5,
+        "images": [
+            {
+                "public_id": "markus-spiske-B-2mkX1rjjY-unsplash_nx5stg",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489938/udemy-project/Organic%20and%20Gourmet/markus-spiske-B-2mkX1rjjY-unsplash_nx5stg.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller":"healthy+fresh store",
+        "stock": 1,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Organic Dried Corn",
+        "price": "299.00 ",
+        "description": "dry corn to liven up your life",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "daniela-paola-alchapar-HRFDmqfmH5Y-unsplash_noid5k",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489938/udemy-project/Organic%20and%20Gourmet/daniela-paola-alchapar-HRFDmqfmH5Y-unsplash_noid5k.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller":"healthy+fresh store",
+        "stock": 11,
+        "numOfReviews": 112,
+        "reviews": []
+    },
+    {
+        "name": "Shittake Mushrooms",
+        "price": "126.99 ",
+        "description": "hop into a healthier lifestyle with these mushrooms",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "vladyslava-sorina-Ejlha9eLz2c-unsplash_qf1zij",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489938/udemy-project/Organic%20and%20Gourmet/vladyslava-sorina-Ejlha9eLz2c-unsplash_qf1zij.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller": "healthy+fresh store",
+        "stock": 122,
+        "numOfReviews": 2671,
+        "reviews": []
+    },
+    {
+        "name": "Organic Blueberries",
+        "price": "27.99",
+        "description": "got a sweet tooth ?  we got you covered",
+        "ratings": 4.1,
+        "images": [
+            {
+                "public_id": "davies-designs-studio-rEt658agKUk-unsplash_nqqjtd",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489938/udemy-project/Organic%20and%20Gourmet/davies-designs-studio-rEt658agKUk-unsplash_nqqjtd.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller":"healthy+fresh store",
+        "stock": 1123,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Organic Coffee Beans",
+        "price": "496.95",
+        "description": "my morning begins with you love",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "jocelyn-morales-bbhgfSus-Is-unsplash_hqmpva",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489937/udemy-project/Organic%20and%20Gourmet/jocelyn-morales-bbhgfSus-Is-unsplash_hqmpva.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller":"healthy+fresh store",
+        "stock": 131,
+        "numOfReviews": 222,
+        "reviews": []
+    },
+    {
+        "name": "Organic Grounded Cinnamon",
+        "price": "949.99",
+        "description": "Spice up your life",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "diana-polekhina-UGUy1i6_-GQ-unsplash_d35uww",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489937/udemy-project/Organic%20and%20Gourmet/diana-polekhina-UGUy1i6_-GQ-unsplash_d35uww.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller": "healthy+fresh store",
+        "stock": 0,
+        "numOfReviews": 56,
+        "reviews": []
+    },
+    {
+        "name": "Almonds",
+        "price": "2.75",
+        "description": "healthy lifestyle redefined",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "nagendra-ts-fLUD9E7-l20-unsplash_p4wm7q",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660489936/udemy-project/Organic%20and%20Gourmet/nagendra-ts-fLUD9E7-l20-unsplash_p4wm7q.jpg"
+            }
+        ],
+        "category": "Organic and Gourmet",
+        "seller": "healthy+fresh store",
+        "stock": 500,
+        "numOfReviews": 1,
+        "reviews": []
+    },
+
+
+
+
+    
+    {
+        "name": "Orange Juice",
+        "price": "315.00",
+        "description": "Fresh juice",
+        "ratings": 1.65,
+        "images": [
+            {
+                "public_id": "jona-novak-A6c4cUoFrHg-unsplash_caixzh",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660491073/udemy-project/Juices/jona-novak-A6c4cUoFrHg-unsplash_caixzh.jpg"
+            }
+        ],
+        "category": "Juices",
+        "seller":"healthy+fresh store",
+        "stock": 0,
+        "numOfReviews": 2,
+        "reviews": []
+    },
+    {
+        "name": "Green Apple Juice",
+        "price": "26.99 ",
+        "description": "organic juice Fresh",
+        "ratings": 3.5,
+        "images": [
+            {
+                "public_id": "christina-rumpf-C9XxB96hEEM-unsplash_qpdt1w",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660491072/udemy-project/Juices/christina-rumpf-C9XxB96hEEM-unsplash_qpdt1w.jpg"
+            }
+        ],
+        "category": "Juices",
+        "seller":"healthy+fresh store",
+        "stock": 1,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Strawberry Cooler",
+        "price": "299.00 ",
+        "description": "nothing like a cooler to cool you in this heat",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "boba-jaglicic-em8P_aV_fj8-unsplash_ab81zj",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660491072/udemy-project/Juices/boba-jaglicic-em8P_aV_fj8-unsplash_ab81zj.jpg"
+            }
+        ],
+        "category": "Juices",
+        "seller":"healthy+fresh store",
+        "stock": 11,
+        "numOfReviews": 112,
+        "reviews": []
+    },
+    {
+        "name": "Pomegranate Juice",
+        "price": "126.99 ",
+        "description": "hop into a healthier lifestyle with this juice",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "louis-hansel-S3E8Y_SRPUw-unsplash_tpdoje",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660491072/udemy-project/Juices/louis-hansel-S3E8Y_SRPUw-unsplash_tpdoje.jpg"
+            }
+        ],
+        "category": "Juices",
+        "seller": "healthy+fresh store",
+        "stock": 122,
+        "numOfReviews": 2671,
+        "reviews": []
+    },
+    {
+        "name": "Mango Coolerance",
+        "price": "27.99",
+        "description": "got a sweet tooth ?  we got you covered",
+        "ratings": 4.1,
+        "images": [
+            {
+                "public_id": "sam-hojati-lw8GflbJwLc-unsplash_cvgvnu",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660491072/udemy-project/Juices/sam-hojati-lw8GflbJwLc-unsplash_cvgvnu.jpg"
+            }
+        ],
+        "category": "Juices",
+        "seller":"healthy+fresh store",
+        "stock": 1123,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Pomegranate grapefuit Juice",
+        "price": "496.95",
+        "description": "just grapefruit it",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "yulia-khlebnikova-yIE7pZUmT_s-unsplash_ildqb3",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660491072/udemy-project/Juices/yulia-khlebnikova-yIE7pZUmT_s-unsplash_ildqb3.jpg"
+            }
+        ],
+        "category": "Juices",
+        "seller":"healthy+fresh store",
+        "stock": 131,
+        "numOfReviews": 222,
+        "reviews": []
+    },
+    {
+        "name": "Limetta juice",
+        "price": "949.99",
+        "description": "fresh juice to create a healthy lifestyle",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "alina-karpenko-jH1PBHevj38-unsplash_qzogzd.",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660491071/udemy-project/Juices/alina-karpenko-jH1PBHevj38-unsplash_qzogzd.jpg"
+            }
+        ],
+        "category": "Juices",
+        "seller": "healthy+fresh store",
+        "stock": 0,
+        "numOfReviews": 56,
+        "reviews": []
+    },
+    {
+        "name": "Mix Fruit Juice",
+        "price": "2.75",
+        "description": "healthy lifestyle redefined",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "dmitry-rodionov-dJdhX-dO7Ok-unsplash_nlmy73",
+                "url": "https://res.cloudinary.com/parul-0103/image/upload/v1660491071/udemy-project/Juices/dmitry-rodionov-dJdhX-dO7Ok-unsplash_nlmy73.jpg"
+            }
+        ],
+        "category": "Juices",
+        "seller": "healthy+fresh store",
+        "stock": 500,
+        "numOfReviews": 1,
+        "reviews": []
+    },
+
+
+
+
+    {
+        "name" : "AASHIRVAAD Whole Wheat Atta",
+        "price" : "495.00",
+        "description" : "AASHIRVAAD Whole Wheat Atta is made from the grains which are heavy on the palm and golden amber in colour. AASHIRVAAD Atta contains 0% Maida and is 100% Whole Wheat Atta. Thus we ensure, through our 4 Step Advantage process of sourcing, cleaning, grinding, mechanised packaging and nutrition lockage.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "atta_xrhx2y",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660486889/udemy-project/Atta%20%2C%20rice%20and%20Daal/atta_xrhx2y.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "ITC",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Laxmi Bhog Besan ",
+        "price" : "120.00",
+        "description" : "CHANA DAL FLOUR IS POPULARLY KNOWN AS BESAN IS GLUTEN FREE, PROTEIN RICH FLOUR.IT IS A VERSATILE FLOUR WIDELY USED IN KITCHEN FOR PREPARING BOTH SWEETS SUCH AS LADOO, BARFI, SOHAN PAPDI, CHURMA, AS WE;; AS SAVORY SNACKS & VEGETABLES LIKE KADHI PAKODA, BHUJIA, GATTE KI SABZI ETC.",
+        "ratings" : 1.65,
+        "images" : [{
+            "public_id" : "besan_sehy9a",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660486979/udemy-project/Atta%20%2C%20rice%20and%20Daal/besan_sehy9a.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "Laxmi Bhog",
+        "stock" : 10,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "Laxmi Bhog Maida",
+        "price" : "50.99 ",
+        "description" : "Maida is refined wheat flour made from the endosperm of the wheat. Laxmi Bhog promises to provide you with gluten rich Maida made from selected varieties of the best quality wheat. It's a star ingredient catering to numerous Indian and International cuisines. In Indian households, it is extensively used to make a wide range of savoury items like mathri, samosa, kachori, naan, bhatura, kulchas, and also sweets like jalebi, gujiya, malpua etc. along with various bakery products. Include Laxmi Bhog Maida in your recipes to enrich the multi-cuisine delicacies cooked in your kitchen.",
+        "ratings" : 3.5,
+        "images" : [{
+            "public_id" : "maida_hchfo7",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660486996/udemy-project/Atta%20%2C%20rice%20and%20Daal/maida_hchfo7.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "Laxmi Bhog",
+        "stock" : 1,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "India Gate Classic Basmati Rice",
+        "price" : "595.00 ",
+        "description" : "India Gate Classic Basmati Rice is an exotic new class of Basmati with a delectable taste that lets you relish special moments in life. Apart from the delicious taste, it is defined by its delicate aroma and smooth pearl white grains that are extra fine and long.India Gate Classic Basmati Rice is aged for two years which gives the grains 20% more length and 30% more servings than non-aged rice. When cooked, the grains elongate up to three times in length.Basmati rice can be used in rice dishes such as Hyderabadi Biryani, Awadhi Pulao, Kashmiri Pulao, and Zafrani Pulao.All India Gate products are produced with international quality standards, cleaned, sorted and packed in superior, hygienic and state-of-the-art facilities, completely untouched by human hands.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "rice_c0xsof",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660487105/udemy-project/Atta%20%2C%20rice%20and%20Daal/rice_c0xsof.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "India Gate",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "India Gate brown rice",
+        "price" : "724.99 ",
+        "description" : "India Gate brown rice provides slow energy release keeping you fuller for longer. This also control your blood levels and help you maintain healthy heart.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "brown_rice_nvxenl",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660486924/udemy-project/Atta%20%2C%20rice%20and%20Daal/brown_rice_nvxenl.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "India Gate",
+        "stock" : 122,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+    {
+        "name" : "Puffed Rice",
+        "price" : "42.99",
+        "description" : "Puffed Rice is a very popular and favorite crispy snack item manufactured in Bengal and processed from special quality of rice grains. the Total system of processing, screening, roasting, packing is mechanised to get the best quality of Puffed Rice.It is completely natural and free from any Chemical, only 2.5Gm Salt is added per 100Gm of rice to get the taste. It is most safe and healthy food for any person even for the patients suffering from hypertension or any other disease. The ingredients are declared in the packet to guide our valued customers.",
+        "ratings" : 4.1,
+        "images" : [{
+            "public_id" : "murmura_ygepax",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660487213/udemy-project/Atta%20%2C%20rice%20and%20Daal/murmura_ygepax.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "Mantra",
+        "stock" : 1123,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : "Ragi flour",
+        "price" : "65.95",
+        "description" : "Ragi flour is fresh or ganic and healthy. It is a favourite of calorie conscious people as it is super low on calories. It is a good source of calcium and iron. It is used in making porridge, cookies, biscuits and even some malted beverages. It is usually used to make chapatti's or rotis to be eaten along with vegetables.It is often recommended by the doctors to incorporate ragi flour items in an infants diet especially because of it rich calcium content. Being gluten free, it is a superb option for wheat allergy suffers. It is also rich in antioxidants.",
+        "ratings" : 4.7,
+        "images" : [{
+            "public_id" : "ragi_ee5ugs",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660487176/udemy-project/Atta%20%2C%20rice%20and%20Daal/ragi_ee5ugs.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "Mantra",
+        "stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : "Urad Daal ",
+        "price" : "180.99",
+        "description" : "For most Indians, comfort food is always linked to easy-to-cook homemade meals and what can be the most convenient and quick to prepare dal. Urad dal can be used to make idlis and dosas. Dal is unpolished as it does not undergo any artificial polishing with water, oil or leather thereby retaining its goodness and wholesomeness. The 5-step process ensures that dal grains are uniform and of premium quality, giving you an all-natural, authentic taste.",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "urad_da0rxa",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660487155/udemy-project/Atta%20%2C%20rice%20and%20Daal/urad_da0rxa.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "Mantra",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Rajma ",
+        "price" : "150.99",
+        "description" : "The flavours of rajma are now brought to you from the mountains of himalayas. Rajma is commonly called as kidney beans which are widely used the world over to make delicious curries and dishes. It is also a common ingredient in many diets as it is rich in carbohydrates and proteins. With the wonderful polythene packing, it retains its freshness till it reaches your hands and is not adulterated.",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "rajma_aiqn5s",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660487059/udemy-project/Atta%20%2C%20rice%20and%20Daal/rajma_aiqn5s.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "Good Life",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Channa Dal ",
+        "price" : "148.99",
+        "description" : "Chana (Bengal Gram) dal is the best protein source for vegetarians. When eaten along with rice or roti (cereal) it provides complete protein like milk or non-vegetarian foods! Since 24 Mantra Organic Chana (Bengal Gram) Dal is unpolished it is a good source of dietary fiber and also subjected to minimal processing. Chana (Bengal Gram) dal has several potential health benefits when consumed as part of a balanced diet.",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "channa_dal_zz0xm7",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660487048/udemy-project/Atta%20%2C%20rice%20and%20Daal/channa_dal_zz0xm7.jpg"
+        }],
+        "category" : "Atta, Rice & Daal",
+        "seller" : "Mantra",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+
+
+    {
+        "name" : "Himalaya Neem Face Wash",
+        "price" : "150.00",
+        "description" : "Himalaya Herbals Purifying Neem Face Wash primarily works towards helping one get rid of irritating pimples and acne. With its soap-free base and herbal formulation, it cleans the pores of the facial skin and helps remove pimples eventually. This neem face wash contains a blend of turmeric and neem, which are considered to be good antifungal and antibacterial elements. Regular use of this face wash keeps the acne from growing back again.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "facewash_trg33y",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505205/udemy-project/Cleaning%20Essentials/facewash_trg33y.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Himalaya",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Colgate Mouthwash ",
+        "price" : "280.00",
+        "description" : "Colgate MaxFresh Plax Antibacterial Mouthwash removes over 99% of germs that cause bad breath and cavities, giving you a fresher and cleaner mouth than brushing alone. It has an extra refreshing peppermint flavour.",
+        "ratings" : 1.65,
+        "images" : [{
+            "public_id" : "mouthwash_w2xalh",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505198/udemy-project/Cleaning%20Essentials/mouthwash_w2xalh.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Colgate",
+        "stock" : 10,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "Lifebuoy hand wash ",
+        "price" : "200.99 ",
+        "description" : "Lifebuoy, World's number 1 selling germ protection soap, brings to you Superfast hand wash for Superfast kids. With every wash, this Activ Silver Formula gives you germ protection in just 10 seconds*.",
+        "ratings" : 3.5,
+        "images" : [{
+            "public_id" : "hand_wash_v4y122",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505265/udemy-project/Cleaning%20Essentials/hand_wash_v4y122.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Lifebuoy",
+        "stock" : 1,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "Fiama Shower Gel",
+        "price" : "350.00 ",
+        "description" : "Infused with natural extracts of Lemongrass and Jojoba oil that is the perfect rejuvenator for your skin.The exfoliation beads in the Shower Gel gently exfoliate your skin leaving it soft and glowing.It contains Skin Conditioners and Moisture Lock it helps to retain moisture of the skin to make it softer, smoother and supple.The soft, buttery gel lathers well on the skin and washes away dirt to make it clean and clear. Skin Type : All Skin Types",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "shower_gel_n1a1wv",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505276/udemy-project/Cleaning%20Essentials/shower_gel_n1a1wv.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Fiama",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "TRESemme Keratin Smooth Conditioner",
+        "price" : "224.99 ",
+        "description" : "Our keratin smooth system is infused with Keratin & Argan Oil Nourishes your hair & controls frizz for upto 3 days Dual action. 100% smoother hair with more shine Lower Sulphate formula. suitable for both natural and chemically-treated hair Makes your tresses smoother. shinier and easier to style Especially formulated for indian hair & suitable for use with oil treatments",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "conditioner_hkl2op",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505225/udemy-project/Cleaning%20Essentials/conditioner_hkl2op.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "TRESemme",
+        "stock" : 122,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+    {
+        "name" : "Clinic Plus shampoo ",
+        "price" : "200.99",
+        "description" : "New Clinic Plus Strong & Long Health shampoo nourishes and makes hair stronger with it's milk protein plus multivitamin formulae. It helps nourish your hair from roots & make them strong. Can be used by the whole family. Suitable for all hair types. The milk protein penetrates each hair strand providing nourishment each time you wash your hair. For best results wash your hair daily with Clinic Plus Strong & Long Health shampoo",
+        "ratings" : 4.1,
+        "images" : [{
+            "public_id" : "shampoo_crziih",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505216/udemy-project/Cleaning%20Essentials/shampoo_crziih.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Clinic Plus ",
+        "stock" : 1123,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : "Colin Glass Cleaner",
+        "price" : "96.95",
+        "description" : "Colin Glass Cleaner contains the power of shine boosters. Available in one variant: Regular (Blue) ; Shine Booster This glass cleaner removes dust, dirt, and stains to boost the shine of products that have glass surfaces. Can be used across glass and shiny surfaces, such as tabletops, mirrors, glass windows, fridge, oven, kitchen cabinets, furniture, car windows etc. It removes dirt and dust and also gives 2 times more shine*â€  than regular cleaner surface_recommendation: Window, Mirror, Glass, Appliances, Furniture",
+        "ratings" : 4.7,
+        "images" : [{
+            "public_id" : "colin_vfimiv.jpg",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505548/udemy-project/Cleaning%20Essentials/colin_vfimiv.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Colin",
+        "stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : "Surf excel Easy Wash  ",
+        "price" : "590.99",
+        "description" : "Surf excel Easy Wash has the power of 10 hands that removes tough stains easily. It’s a superfine powder that dissolves easily and removes tough stains fast. It's superior technology fights various tough stains such oil, ketchup, chocolate, curry stains. For tough stains, pre-soak you garments in Surf excel Easy Wash solution for 30 mins",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "detergent_vvz45c",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505554/udemy-project/Cleaning%20Essentials/detergent_vvz45c.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Surf excel",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Harpic Disinfectant Toilet Cleaner ",
+        "price" : "100.99",
+        "description" : "Disinfectant Toilet Cleaner. Kills 99.9% of germs. Removes 10 x more yellowish and tough stains. Strategically bent bottleneck shape helps pour the liquid into deep corners under the toilet rim. Thick liquid which clings and cleans from rim to U-bend. Available in three scents: Original, Orange and Rose",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "harpic_f3vlms",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505538/udemy-project/Cleaning%20Essentials/harpic_f3vlms.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Harpic",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Scotch-Brite Scrub ",
+        "price" : "70.99",
+        "description" : "Whether your sink is stacked with greasy plates or stained utensils, the Scotch-Brite Scrub Pad works harder to keep your utensils sparkling clean. It has a superior stain cutter technology which has the power to cut through tough stains. The stain cutters are evenly spread through the scrub pad which ensures better cleaning for the life of the pad. So scrub pad cleans better for longer!",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "scotch_brite_phqwcb",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505560/udemy-project/Cleaning%20Essentials/scotch_brite_phqwcb.jpg"
+        }],
+        "category" : "Cleaning Essentials",
+        "seller" : "Scotch-Brite",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+
+
+    {
+        "name" : "mustard oil",
+        "price" : "145",
+        "description" : "Virgin Oil",
+        "images" : [{
+            "public_id" : "jonathan-ocampo-iCgfwfqgdzo-unsplash_zh3hjc",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660473178/udemy-project/Masala%20%2C%20Oil%20and%20More/jonathan-ocampo-iCgfwfqgdzo-unsplash_zh3hjc.jpg"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Mahakosh refind oil",
+        "price" : "140",
+        "description" : "refined oil for refined lifestyle. Contains Polyunsaturated Fatty Acids (PUFA) which maintains heart health. Vitamin A & D, makes eyes & bones stronger. 100% Vegeterian | Safe to consume. Shelf Life:270 Days; Ingredient Type: Vegetarian. ",
+        "images" : [{
+            "public_id" : "mahakosh_eqiunw",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660475904/udemy-project/Masala%20%2C%20Oil%20and%20More/mahakosh_eqiunw.jpg"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Fortune oil",
+        "price" : "125",
+        "description" : "Fortune Premium Kachi Ghani Pure Mustard Oil, traditionally extracted from the first press of mustard seeds, comes with a high pungency level and strong aroma. Being pure, our cooking oil retains its natural properties and mustard oil benefits. Its strong aroma and pungency will spice up your cooking",
+        "images" : [{
+            "public_id" : "fortune_bottle_oil_bu7rle",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660475905/udemy-project/Masala%20%2C%20Oil%20and%20More/fortune_bottle_oil_bu7rle.jpg"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Safoola gold",
+        "price" : "130",
+        "description" : "We understand that your family’s health and your health is ever so important for you. A healthy heart is among the first steps to overall health. And choosing the right cooking oil can help make your meals better for your heart and health. Saffola Gold multisource edible oil can help keep your family heart healthy. This vegetable oil has a good balance of MUFA & PUFA with a specially designed anti-oxidant system that helps improve immunity. Saffola Gold, with Oryzanol, helps maintain healthy cholesterol levels.",
+        "images" : [{
+            "public_id" : "saffola_gold_zaf7wl",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660475906/udemy-project/Masala%20%2C%20Oil%20and%20More/saffola_gold_zaf7wl.jpg"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "fortune sun lite",
+        "price" : "75",
+        "description" : " Fortune Sunflower Oil is a light, healthy and nutritious cooking oil. Being rich in vitamins and consisting mainly of ployunsaturated fatty acids, it makes food easy to digest. Maximum Shelf Life: 9 Months",
+        "images" : [{
+            "public_id" : "fortune_sun_life_zythel",
+            "url":"https://res.cloudinary.com/parul-0103/raw/upload/v1660475907/udemy-project/Masala%20%2C%20Oil%20and%20More/fortune_sun_life_zythel.htm"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "coconil body oil",
+        "price" : "60",
+        "description" : "Parachute Coconut oil- India’s No.1 coconut oil contains only the goodness of 100% pure coconut oil. It is made from naturally sun-dried coconuts sourced from the finest farms of our country. The oil is extracted from the nuts through a meticulous hands free process. It goes through a 5 stage purification process and as many as 27 quality tests are performed on the oil so that each bottle that reaches you is 100% pure- EVERY SINGLE TIME. A tamper proof seal ensures that the rich aroma of raw coconuts is preserved for a long time. It contains no added chemicals, scent, additives or preservatives and lasts fresh & safe for up to 18 months. It is licensed by FSSAI as an edible grade coconut oil. All this ensures that every bottle of coconut oil adheres to the Parachute promise of being 100% safe and 100% pure. ",
+        "images" : [{
+            "public_id" : "deanna-alys-6LBBOwkPzyQ-unsplash_ziifrh",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660476053/udemy-project/Masala%20%2C%20Oil%20and%20More/deanna-alys-6LBBOwkPzyQ-unsplash_ziifrh.jpg"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Dabour mustard oil",
+        "price" : "99",
+        "description" : "It is traditionally cold pressed from finest quality mustard seeds, ensuring that the natural properties and health benefits are intact. It contains the good ratio of omega -3 and omega - 6 fatty acid. Daily consumption of DABUR cold pressed mustard oil gives way to healthy lifestyle.It is rich in monosaturated fatty acid making it good for heart and it also helps in managing cholesterol and improve blood circulation. Cooking with DABUR mustard oil gives a delicious twist to your dish with great flavour and aroma. ",
+        "images" : [{
+            "public_id" : "mustard_oil_gfdjru",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660476177/udemy-project/Masala%20%2C%20Oil%20and%20More/mustard_oil_gfdjru.jpg"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Red chillie powder",
+        "price" : "50",
+        "description" : "Red Chilli Powder, a pantry staple in almost all Indian dishes. Chilli Powder that is made to perfection to add a touch of spice to all your regular and exotic dishes. Known as the land of spiciest chillies, Chilli Powder is sourced from the best farms of Guntur (Andhra Pradesh), and Byadigi (Karnataka). For the perfect texture, colour, spice, and hotness, the Chilli Powder is processed in low-temperature grinding technology and is packed using state-of-the-art equipment ensuring minimal human contact.",
+        "images" : [{
+            "public_id" : "towfiqu-barbhuiya-ul3G99O5oIA-unsplash_tixj8l",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660476822/udemy-project/Masala%20%2C%20Oil%20and%20More/towfiqu-barbhuiya-ul3G99O5oIA-unsplash_tixj8l.jpg"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Haldi powder",
+        "price" : "20",
+        "description" : "Turmeric, also known as Indian saffron or yellow spice has been an integral part of Indian culinary dishes because of its beautiful yellow tint and has been used as a remedy for prevention from diseases for ages. Introducing,Turmeric Powder that is sourced from the best farms of Sangli (Maharashtra) and Erode (Tamil Nadu). The curcumin content in Turmeric Powder goes through a stringent quality control process to ensure quality and authenticity. ",
+        "images" : [{
+            "public_id" : "mockup-graphics-4kwng1w5Lwg-unsplash_qjjjsy",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660477035/udemy-project/Masala%20%2C%20Oil%20and%20More/mockup-graphics-4kwng1w5Lwg-unsplash_qjjjsy.jpg"
+    
+        }],
+        "category" : "Masala , Oil and More",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Five star home pack",
+        "price" : "50",
+        "description" : "A delicious indulgent combination of chocolate, caramel and nougat. Longer-lasting chewy multi textured chocolate eat experience.",
+        "images" : [{
+            "public_id" : "five_start_home_pack_rswuqz",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496145/udemy-project/Sweet%20Tooth/five_start_home_pack_rswuqz.webp"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Gems",
+        "price" : "20",
+        "description" : " Cadbury gems is chocolate flavour, rich and chocolate buttons. What makes gems different is the way the chocolate has been designed as colourful candy. Gems can be used to embellish puddings, cakes, biscuits, homemade chocolates and cookies. It is colourful, tasty and fun. Gems is loved by everyone. Add to any dessert for that extra touch or just eat it how it is for a guaranteed burst of flavours in your mouth. ",
+        "images" : [{
+            "public_id" : "Gems_pvmj66",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496090/udemy-project/Sweet%20Tooth/Gems_pvmj66.jpg"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Marshmallow",
+        "price" : "45",
+        "description" : " Kids and grown-ups love it so. The happy world of Haribo, the since 1922. Have you tried Haribo sweets. Haribo is the leading gums and jellies brand in the UK, with a range of sweets to suit your tastebuds.",
+        "images" : [{
+            "public_id" : "Marshmellow_zwxcwr",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496089/udemy-project/Sweet%20Tooth/Marshmellow_zwxcwr.webp"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Snickers Miniature",
+        "price" : "100",
+"description" : " Crunchy peanuts covered in a delightful chocolate layer. Hunger-busting and satisfying for your taste buds. Filled with soft nougat, caramel and peanuts.Snickers chocolate is an ideal snack for when you are hungry",
+        "images" : [{
+            "public_id" : "snickers-miniatures_us9hug",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496089/udemy-project/Sweet%20Tooth/snickers-miniatures_us9hug.webp"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Melody packet",
+        "price" : "100",
+        "description" : "As you take a bite of Parle Melody chocolaty candy, you can easily distinguish the extra sweetness of the caramel cutting through the smooth chocolaty filling. The excessive sweetness in the candy can be quite a revelation, especially for those who like their toffees caramels and crunchy. Enjoy this twin irresistible flavour of chocolate and caramel blended to perfection in each bite of this delightful toffee. ",
+        "images" : [{
+            "public_id" : "melody_packet_iq4we3",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496089/udemy-project/Sweet%20Tooth/melody_packet_iq4we3.webp"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "snickers",
+        "price" : "15",
+        "description" : "Crunchy peanuts covered in a delightful chocolate layer. Hunger-busting and satisfying for your taste buds. Filled with soft nougat, caramel and peanuts.Snickers chocolate is an ideal snack for when you are hungry ",
+        "images" : [{
+            "public_id" : "snickers_xrpfid",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496089/udemy-project/Sweet%20Tooth/snickers_xrpfid.jpg"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Perk Home Treat",
+        "price" : "120",
+        "description" : " Perk is a combination of crisp wafer and delicious Cadbury chocolate that enlivens your mood and sparks the lighter side of life.",
+        "images" : [{
+            "public_id" : "Perk_home_treat_l7bdg5",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496089/udemy-project/Sweet%20Tooth/Perk_home_treat_l7bdg5.jpg"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Perk",
+        "price" : "10",
+        "description" : "Perk is a combination of crisp wafer and delicious Cadbury chocolate that enlivens your mood and sparks the lighter side of life. ",
+        "images" : [{
+            "public_id" : "perk_ztpugu",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496089/udemy-project/Sweet%20Tooth/perk_ztpugu.jpg"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Britannia fuity cake",
+        "price" : "30",
+        "description" : "Britannia Veg Fruit Cake is 100% vegetarian prepared with the goodness of little fruit bits and milk. The slices are eggless and deliciously soft. With the best all-natural ingredients, each bite gives mouth-watering flavour. Britannia Cakes have soft spongy and fluffy slices that deliciously melts in your mouth. Believing in delivering fresh and healthy products, Britannia India manufactures some of India's favourite cakes. ",
+        "images" : [{
+            "public_id" : "britannia-gobbles-fruity-fun-cake_j8uiuc",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496089/udemy-project/Sweet%20Tooth/britannia-gobbles-fruity-fun-cake_j8uiuc.webp"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Britannia chocolate cake",
+        "price" : "30",
+        "description" : " Britannia Veg Fruit Cake is 100% vegetarian prepared with the goodness of little fruit bits and milk. The slices are eggless and deliciously soft. With the best all-natural ingredients, each bite gives mouth-watering flavour. Britannia Cakes have soft spongy and fluffy slices that deliciously melts in your mouth. Believing in delivering fresh and healthy products, Britannia India manufactures some of India's favourite cakes.",
+        "images" : [{
+            "public_id" : "britannia_chocolate_cake_ebz2mq",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660496088/udemy-project/Sweet%20Tooth/britannia_chocolate_cake_ebz2mq.jpg"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Dairy milk silk Bubbly",
+        "price" : "75",
+        "description" : " Cadbury dairy milk silk bubbly has the same smooth flavour that you would expect from cadbury’s silk with the added twist of bubbles (completely non-flavour altering). It is a milk chocolate, so it is on the sweeter, milkier side. The bubbles simply make it a little bigger to bite into, a little airier when you are chewing.",
+        "images" : [{
+            "public_id" : "Dairy_milk_silk_Bubbly_wjohy8",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660495344/udemy-project/Sweet%20Tooth/Dairy_milk_silk_Bubbly_wjohy8.webp"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Dairy milk",
+        "price" : "10",
+        "description" : " Cadbury Dairy Milk Silk is all about regaling in the chocolate's richness and creaminess. The classic taste of Cadbury chocolates offers you the reason to celebrate every small and big occasion of happiness.In short,Indulge in the premium chocolate delicacy.",
+        "images" : [{
+            "public_id" : "Dairy_milk_xpcheb",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660495343/udemy-project/Sweet%20Tooth/Dairy_milk_xpcheb.webp"
+    
+        }],
+        "category" : "Sweet Tooth",
+        "seller" : "Reliance",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Johnsons baby lotion",
+        "price" : "100",
+        "description" : "When a baby is born, her skin is most delicate. That's why we perfected our formulas over 125 years so they are now more gentle to give her the best care. Johnson's baby lotion has been improved to slow down moisture loss by hydrating skin, locking in moisture and creating a protective barrier to keep moisture in and dryness out. This clinically proven long lasting formula continuously protects baby’s skin for up to 24 hours, keeping it feeling healthy and baby soft. ",
+        "images" : [{
+            "public_id" : "johnsons-baby-baby-lotion_qwa5i7",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660497801/udemy-project/Baby%20Care/johnsons-baby-baby-lotion_qwa5i7.webp"
+    
+        }],
+        "category" : "Baby Care",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Johnsons baby cream",
+        "price" : "105",
+        "description" : " 2 out of 3 babies have dry skin. We understand baby’s delicate skin needs extra moisture to protect it from dryness, so it stays baby soft always. Our Johnson's baby cream leaves baby skin soft for 24 hours. It contains chamomile extracts and makes his skin soft and smooth. Its fast absorbing formula contains rich emollients that help moisturize and preserve baby skin’s natural softness to protect your baby from chapped knees, rubbed elbows and tender noses.",
+        "images" : [{
+            "public_id" : "johnsons_baby-cream_ys0wne",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660497801/udemy-project/Baby%20Care/johnsons_baby-cream_ys0wne.webp"
+    
+        }],
+        "category" : "Baby Care",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Johnosons baby soap",
+        "price" : "25",
+        "description" : " Did you know? your baby's skin has a natural protective coating of moisturizing oils that covers her skin's outer layer. If these oils get washed away, you might leave her skin vulnerable to dryness, irritation and rash. that's why johnson's baby soap is enriched with 1/4th baby lotion and vitamin e to help preserve the baby skin’s moisture. It's rich, creamy lather gently cleanses and helps keep your baby's skin soft and supple.",
+        "images" : [{
+            "public_id" : "299670_17-johnsons-baby-baby-soap_gsq5xb",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660497801/udemy-project/Baby%20Care/299670_17-johnsons-baby-baby-soap_gsq5xb.webp"
+    
+        }],
+        "category" : "Baby Care",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Johnosons baby powder",
+        "price" : "95",
+        "description" : " Johnson's baby powder helps to eliminate friction while keeping skin cool and comfortable. Unlike adult powders, Johnson's baby powder is safe and is made of millions of tiny round slippery plates that glide over each other to help reduce the irritation caused by friction and thus providing soothing comfort to your baby. With a clean, classic scent, this incredibly soft baby powder formula awakens and stimulates your baby’s senses making your baby feel fresh and letting your baby play happily with everyone.",
+        "images" : [{
+            "public_id" : "100526377_4-himalaya-baby-baby-powder_ihtlvb",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660497801/udemy-project/Baby%20Care/100526377_4-himalaya-baby-baby-powder_ihtlvb.webp"
+    
+        }],
+        "category" : "Baby Care",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "pampers diaper",
+        "price" : "135",
+        "description" : "New Pampers Active Baby taped diapers  provides your baby 5 star skin protection! The sides & waist are stretchable with 360 Degree Cottony Softness providing best comfort for your baby’s skin. Its Extra Dry Layer helps prevent leakage by spreading baby’s urine evenly and Pampers unique Magic Gel technology absorbs baby’s pee full night for up to 12 hrs.",
+        "images" : [{
+            "public_id" : "pampers_lqjzbp",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660497632/udemy-project/Baby%20Care/pampers_lqjzbp.jpg"
+    
+        }],
+        "category" : "Baby Care",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "johnsons baby shampoo",
+        "price" : "125",
+        "description" : " Johnson's baby shampoo is specially designed to be as gentle and mild to the eyes as pure water. Johnson's baby no more tears shampoo is free of soap. It makes the rinsing of the hair very easy. You can clean the scalp and hair perfectly without leaving any adverse impact on the protective layer. Its anti-fungal and anti-bacterial properties prevent allergies or infections. It’s no more tears formula cleanses gently and easily, leaving your baby’s hair soft and healthy. Moms trust johnson's - always mild, gentle and effective.",
+        "images" : [{
+            "public_id" : "johnsons-baby-no-more-tears-baby-shampoo_bnyywi",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660497631/udemy-project/Baby%20Care/johnsons-baby-no-more-tears-baby-shampoo_bnyywi.webp"
+    
+        }],
+        "category" : "Baby Care",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    
+        {
+        "name" : "Amul toned milk",
+        "price" : "24",
+        "description" : "Amul Moti Homogenised Toned Milk is a well-sealed packet of milk which is famous for its rich taste. It is perfect for whitening tea, coffee and for the preparation of solid curd. This milk packet comes with virtually zero bacteria.",
+        "images" : [{
+            "public_id" : "Amul_milk-1_dldurg",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660472883/udemy-project/Dairy%20Bread%20and%20Eggs/Amul_milk-1_dldurg.jpg"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Amul full cream milk",
+        "price" : "28",
+        "description" : "Amul Milk is the most hygienic liquid milk available in the market. It is pasteurised in state-of-the-art processing plants and pouch-packed to make it conveniently available to consumers.",
+        "images" : [{
+            "public_id" : "Amul_milk-2_pisshd.",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660472882/udemy-project/Dairy%20Bread%20and%20Eggs/Amul_milk-2_pisshd.jpg"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "paneer",
+        "price" : "230",
+        "description" : "Amul the leading dairy brand of India.Has unique test and quality of prodcuts.Homogenised & pasteurised cow milk.",
+        "images" : [{
+            "public_id" : "paneer_g4emxv",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660472882/udemy-project/Dairy%20Bread%20and%20Eggs/paneer_g4emxv.jpg"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Amul masti dahi big",
+        "price" : "35",
+        "description" : "Amul the leading dairy brand of India.Has unique test and quality of prodcuts.Curd made from pasteurised toned milk.",
+        "images" : [{
+            "public_id" : "Amul_dahi_big_u4srnw",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660472879/udemy-project/Dairy%20Bread%20and%20Eggs/Amul_dahi_big_u4srnw.jpg"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "amul masti dahi small",
+        "price" : "15",
+        "description" : "Amul the leading dairy brand of India.Has unique test and quality of prodcuts.Curd made from pasteurised toned milk.",
+        "images" : [{
+            "public_id" : "amul_dahi_small_gz9c4e",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660472878/udemy-project/Dairy%20Bread%20and%20Eggs/amul_dahi_small_gz9c4e.jpg"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "britannia brown bread",
+        "price" : "25",
+        "description" : "Britannia brand believes in every bread has its own personality and we thrive to achieve the same with our worlds best class technology.",
+        "images" : [{
+            "public_id" : "Dairy%20Bread%20and%20Eggs/Brown_bread_pxxs8x",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660475449/udemy-project/Dairy%20Bread%20and%20Eggs/Brown_bread_pxxs8x.webp"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "britannia sandwich bread",
+        "price" : "25",
+        "description" : " Britannia brand believes in every bread has its own personality and we thrive to achieve the same with our worlds best class technology.",
+        "images" : [{
+            "public_id" : "sandwich_bread_sel9bl",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660472878/udemy-project/Dairy%20Bread%20and%20Eggs/sandwich_bread_sel9bl.jpg"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Brown egg",
+        "price" : "4",
+        "description" : " Vegetarian feed and infertile, fresh and clean eggs.",
+        "images" : [{
+            "public_id" : "raiyan-zakaria-jDkrpWtSkb4-unsplash_gedbi6",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660475528/udemy-project/Dairy%20Bread%20and%20Eggs/raiyan-zakaria-jDkrpWtSkb4-unsplash_gedbi6.jpg"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "White eggs",
+        "price" : "5",
+        "description" : " Vegetarian feed and infertile, fresh and clean eggs.",
+        "images" : [{
+            "public_id" : "alice-pasqual-D7rBGdw5DXk-unsplash_qcvkru",
+            "url":"https://res.cloudinary.com/parul-0103/image/upload/v1660475625/udemy-project/Dairy%20Bread%20and%20Eggs/alice-pasqual-D7rBGdw5DXk-unsplash_qcvkru.jpg"
+    
+        }],
+        "category" : "Dairy Bread and Eggs",
+        "seller" : "Anand Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Multigrain Bread",
+        "price" : "65.00",
+        "description" : "Fresh Baked Multigrain Bread",
+        "images" : [{
+            "public_id" : "multigrain_irskr8",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488720/udemy-project/Bakery%20and%20Biscuits/multigrain_irskr8.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Dave's Killer Bread",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "White Bread",
+        "price" : "25.00",
+        "description" : "Fresh Baked White Bread",
+        "images" : [{
+            "public_id" : "white_hxzpio",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488719/udemy-project/Bakery%20and%20Biscuits/white_hxzpio.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Fesho",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Brown Bread",
+        "price" : "45.00",
+        "description" : "Fresh Baked Brown Bread",
+        "images" : [{
+            "public_id" : "brown_kjxrsl",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488719/udemy-project/Bakery%20and%20Biscuits/brown_kjxrsl.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Britanina",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Pizza Base",
+        "price" : "40.00",
+        "description" : "Fresh Pizza base",
+        "images" : [{
+            "public_id" : "pizzabase_z248bv",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488719/udemy-project/Bakery%20and%20Biscuits/pizzabase_z248bv.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "English Owen",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Wheat kulcha",
+        "price" : "35.00",
+        "description" : "Fresh Wheat Kulcha ",
+        "images" : [{
+            "public_id" : "kulcha_hg8swl",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488719/udemy-project/Bakery%20and%20Biscuits/kulcha_hg8swl.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Britanina",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Garilc Bread",
+        "price" : "50.00",
+        "description" : "Fresh Baked Garlic Bread",
+        "images" : [{
+            "public_id" : "garlicbread_vomrs7",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488719/udemy-project/Bakery%20and%20Biscuits/garlicbread_vomrs7.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Unroll",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Fruit Bread",
+        "price" : "25.00",
+        "description" : "Fresh Baked Fruit Bread",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "fruitbun_dlo6hp",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488719/udemy-project/Bakery%20and%20Biscuits/fruitbun_dlo6hp.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "English Owen",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Bombay Paw",
+        "price" : "40.00",
+        "description" : "Fresh Baked Bombay Paw",
+        "images" : [{
+            "public_id" : "bombaypaw_d9mjga",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488719/udemy-project/Bakery%20and%20Biscuits/bombaypaw_d9mjga.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "britanina",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Burger Bun",
+        "price" : "50.00",
+        "description" : "Fresh Baked burger Bun",
+        "images" : [{
+            "public_id" : "burgerbun_hqtsnw",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488719/udemy-project/Bakery%20and%20Biscuits/burgerbun_hqtsnw.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "English Owen",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Footlong Sub",
+        "price" : "50.00",
+        "description" : "Fresh Baked Foot-long Sub",
+        "images" : [{
+            "public_id" : "footlongsub_ioup62",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660488718/udemy-project/Bakery%20and%20Biscuits/footlongsub_ioup62.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "English Owen",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Fan Khari",
+        "price" : "349.00",
+        "description" : "Traditional Indian Khari (Baked Namkeen) called Fain, served in a safe and hygienic way for you and your loved ones.",
+        "images" : [{
+            "public_id" : "fan_spnuuv",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660503219/udemy-project/Bakery%20and%20Biscuits/fan_spnuuv.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "POLKA Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Cup Cakes",
+        "price" : "230.00",
+        "description" : "First time ever in the world, A cake which is both Sugar-Free and Eggless, with the best and rich taste. No Added Sugar - Natural Low GI Sweetener Used, Suitable for Diabetics & Health Watchers, Eggless - 100% Vegetarian. Superior Quality - We ensure the top quality ingredients and our manufacturing practices are ISO 22000:2005 & HACCP Certified. Lower in Calories (Approx ~150 Kcal Only) per cup cakes, compared to others in the market.",
+        "images" : [{
+            "public_id" : "cupcakes_jjfqs6",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660503219/udemy-project/Bakery%20and%20Biscuits/cupcakes_jjfqs6.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Lavian Exotique",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Creame Rolls",
+        "price" : "288.00",
+        "description" : "Malpani's Bakelite’s Cream Rolls are made up of crispy outside layers and a delicious cream filling inside. Cream Rolls have been the undisputed choice of every Indian, while enjoying a cup of cutting chai.",
+        "images" : [{
+            "public_id" : "creamerolls_hah8wq",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660503949/udemy-project/Bakery%20and%20Biscuits/creamerolls_hah8wq.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Malpani's Bakelite",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "ORION Ultimate Chocochip Cookies",
+        "price" : "375.00",
+        "description" : "Orion choco chip cookies comes in individually wrapped packets; which makes it a great option for snacking on-the-go!",
+        "images" : [{
+            "public_id" : "chocolatebiscuits_lscdsw",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505072/udemy-project/Bakery%20and%20Biscuits/chocolatebiscuits_lscdsw.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "ORION Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "The Flavour Republic Jeera Biscuits",
+        "price" : "195.00",
+        "description" : "Handmade Salty jeera Biscuit sticks. Healthy and Tasty Perfect Snack that Can be enjoyed with friends over tea and coffee. Shelf Life 3 month from date of manufacture Package dimensions. 21 *14* 12 cm(L*B*H) Weight. 400 gms",
+        "images" : [{
+            "public_id" : "jeerabiscuits_ch2pui",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505072/udemy-project/Bakery%20and%20Biscuits/jeerabiscuits_ch2pui.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "The Flavour Republic Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Anand Atta Cookies (250 gm)",
+        "price" : "219.00",
+        "description" : "Crispy and eggless whole wheat cookies. Anand Atta biscuits are flavored with cardamom and nutmeg and are usually enjoyed with chai!",
+        "images" : [{
+            "public_id" : "attabiscuits_kj2wlz",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505072/udemy-project/Bakery%20and%20Biscuits/attabiscuits_kj2wlz.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Anand",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "The Flavour Republic Ajwain Biscuits",
+        "price" : "195.00",
+        "description" : "Handmade Salty Ajwain Biscuit sticks. Healthy and Tasty Perfect Snack that Can be enjoyed with friends over tea and coffee. Shelf Life 3 month from date of manufacture Package dimensions. 21 *14* 12 cm(L*B*H) Weight. 400 gms",
+        "images" : [{
+            "public_id" : "ajwainbiscuits_kyqati",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505072/udemy-project/Bakery%20and%20Biscuits/ajwainbiscuits_kyqati.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "The Flavour Republic Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Cadbury Oreo Original Chocolatey Sandwich Biscuit Family Pack",
+        "price" : "69.00",
+        "description" : "Oreo sandwich crème biscuit brings together the rich, smooth taste of Vanilla crème filling with the bold taste of two crunchy Chocolate wafers. Cadbury Oreo family pack includes 3 delicious vanilla flavour Oreo each of 100g. This rich vanilla creme filling cookies contain 483 calories and 19.6g of fat and 0mg of cholesterol per 100g. Take a delicious break with an Oreo cookie, the perfect anytime snack.",
+        "images" : [{
+            "public_id" : "cremebiscuits_sdhwbh",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505072/udemy-project/Bakery%20and%20Biscuits/cremebiscuits_sdhwbh.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Cadbury",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Diabodelite Natural Flavour Multi-Grain Sugar Free Cookies",
+        "price" : "249.00",
+        "description" : "Diabodelite contains low molecular weight fiber- galactomannan which is derived from fenugreek. These fibers in Diabodelite dissolve in water and form a gel to trap carbohydrates thus slowing down their absorption considerably while moving through the digestive tract. As a result, sugar absorbed into the bloodstream is significantly slow, blunting the sharp spike in blood glucose typically experienced by diabetic patients after a meal. As an additional benefit, soluble fibers in Diabodelite have also been shown to lower blood cholesterol, including LDL cholesterol.",
+        "images" : [{
+            "public_id" : "oatbiscuit_nncjsd",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660506240/udemy-project/Bakery%20and%20Biscuits/oatbiscuit_nncjsd.jpg"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Diabodelite Store",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+
+    {
+        "name" : "Salton Bay Masala Breadsticks",
+        "price" : "44.25",
+        "description" : "Salton Bay believes in Baking to Perfection with the finest quality ingredients to bring you the freshest produce which has its own individual identity, feel and taste.Each product from our Bakery is handcrafted and freshly baked from scratch with patience and passion.",
+        "images" : [{
+            "public_id" : "breadsticks_wm2csm",
+            "url" : "https://res.cloudinary.com/parul-0103/image/upload/v1660505072/udemy-project/Bakery%20and%20Biscuits/breadsticks_wm2csm.webp"
+        }],
+        "category" : "Bakery and Biscuits",
+        "seller" : "Salton Bay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    }
+]
